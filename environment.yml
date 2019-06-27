@@ -1,0 +1,10 @@
+name: radbase
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.6
+  - ipython
+  - jupyter
+  - numpy
+  - pandas=0.23.2
